@@ -110,3 +110,4 @@ if __name__ == "__main__":
         send_email(email_subject, email_body)
     else:
         print("API 요청 실패로 작업을 중단합니다.")
+        print("API 요청 실패로 작업을 중단합니다.")
